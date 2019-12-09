@@ -1,0 +1,7 @@
+*.jpg
+*.jpeg
+**/db
+**/node_modules
+*.png
+*.mp3
+*.mp4
